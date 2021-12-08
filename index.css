@@ -1,0 +1,28 @@
+h1 {
+  font-size: 150px !important;
+  color: #ed1c24;
+  margin-top: 100px !important;
+  text-align: center;
+}
+
+button {
+  font-size: 30px;
+  color: red;
+  text-align: center;
+}
+
+.winner {
+  position: relative;
+  top: -100px;
+  justify-content: center !important;
+  align-items: center !important;
+  text-align: center !important;
+}
+
+body {
+  background: #fbfbfb !important;
+}
+
+img {
+  margin-top: 65px;
+}
